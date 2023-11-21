@@ -1,4 +1,4 @@
-# Advance-Library-System
+# Advance Library System
 
 This code will not work if you downloaded it as a zip file and then imported it into your IDE.
 
