@@ -1,2 +1,1 @@
-# OOP-CCOBJPGL
-Object-Oriented Programming
+# OBJECT-ORIENTED PROGRAMMING (CCOBJPGL)
